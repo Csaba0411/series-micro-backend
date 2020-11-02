@@ -1,0 +1,13 @@
+package com.codecool.episodeservice;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EpisodeServiceApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cast-service/cast-service.iml" filepath="$PROJECT_DIR$/cast-service/cast-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/episode-service/episode-service.iml" filepath="$PROJECT_DIR$/episode-service/episode-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/series-service/series-service.iml" filepath="$PROJECT_DIR$/series-service/series-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
+    </modules>
+  </component>
+</project>
